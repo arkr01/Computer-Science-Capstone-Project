@@ -6,10 +6,10 @@
 
 ## Offical Team Name (cont.d)
 ### Project Members:
-* Adrian Rahul Kamal Rajkamal (Overall Project Manager | Front-end, Marketing & User Research)
-* Matthew Dean (Front-end | Documentarian, Production Manager)
+* Adrian Rahul Kamal Rajkamal (Project Team Lead | Front-end, Marketing & User Research)
+* Matthew Dean (Front-end | Documentation, Production Management)
 * Xurong Liang (DB Administrator | Back-end, Server-Database Interaction)
-* Alexander Dubravcic (Front-end | Documentarian, Quality Assurance)
+* Alexander Dubravcic (Front-end | Documentation, Quality Assurance)
 * Kyle Macaskill (Front-end lead | UI / UX Architect, Designer)
 * Caleb Wishart (Sysadmin | Back-end, Client-Server Interaction)
 
